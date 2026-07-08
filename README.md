@@ -138,18 +138,18 @@ Notebook
 
 # 🛠 Tech Stack
 
-| Category | Tools |
-|-----------|-------|
-| Language | Python |
-| Framework | PyTorch |
-| Transformers | Hugging Face Transformers |
-| Fine-Tuning | PEFT, LoRA |
-| RL Library | TRL |
-| Dataset | Hugging Face Datasets |
-| Optimization | AdamW |
-| Quantization | BitsAndBytes |
-| Notebook | Google Colab |
-| Visualization | Matplotlib |
+| Category      | Tools                     |
+| ------------- | ------------------------- |
+| Language      | Python                    |
+| Framework     | PyTorch                   |
+| Transformers  | Hugging Face Transformers |
+| Fine-Tuning   | PEFT, LoRA                |
+| RL Library    | TRL                       |
+| Dataset       | Hugging Face Datasets     |
+| Optimization  | AdamW                     |
+| Quantization  | BitsAndBytes              |
+| Notebook      | Google Colab              |
+| Visualization | Matplotlib                |
 
 ---
 
@@ -211,8 +211,7 @@ Each notebook includes:
 - RLVR
 - PPO
 - GRPO
-- Policy Optimization
-- Advantage Estimation
+- Policy OptimizationS
 - Reward Functions
 
 ### Large Language Models
@@ -225,7 +224,6 @@ Each notebook includes:
 - Alignment
 
 ---
-
 
 # 📚 References
 
